@@ -1,2 +1,2 @@
 console.log('Hello semicolon;');
-console.log('not at all..');
+console.log('Please add a semicolon');
